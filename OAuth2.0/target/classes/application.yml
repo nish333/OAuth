@@ -1,0 +1,17 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: 
+            clientSecret: 
+          google:
+            clientId: 
+            clientSecret: 
+
+
+
+
+
+
